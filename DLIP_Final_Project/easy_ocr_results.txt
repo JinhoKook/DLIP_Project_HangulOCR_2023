@@ -1,0 +1,147 @@
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image1.jpg ===
+([[2, 2], [78, 2], [78, 34], [2, 34]], '챔런지', 0.6626967872506135)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image2.jpg ===
+([[0, 2], [74, 2], [74, 34], [0, 34]], '에임지', 0.7219110950092829)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image3.jpg ===
+([[2, 2], [78, 2], [78, 34], [2, 34]], '시티켓', 0.9301354968194036)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image4.jpg ===
+([[2, 0], [54, 0], [54, 32], [2, 32]], '타운', 0.9998792935597095)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image5.jpg ===
+([[6, 2], [78, 2], [78, 34], [6, 34]], '학기말', 0.999928421807186)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image6.jpg ===
+([[0, 2], [52, 2], [52, 32], [0, 32]], '노블', 0.14439313221356032)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image7.jpg ===
+([[1, 0], [103, 0], [103, 35], [1, 35]], '같이가요', 0.9898301362991333)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image8.jpg ===
+([[0, 2], [72, 2], [72, 32], [0, 32]], '티에이', 0.9910686437699376)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image9.jpg ===
+([[2, 2], [52, 2], [52, 32], [2, 32]], '마불', 0.2847273004520202)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image10.jpg ===
+([[4, 2], [78, 2], [78, 32], [4, 32]], '레즈고', 0.6549206376075745)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image11.jpg ===
+([[0, 2], [52, 2], [52, 32], [0, 32]], '보급', 0.998848995090346)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image12.jpg ===
+([[6, 2], [56, 2], [56, 32], [6, 32]], '더불', 0.9668681824346318)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image13.jpg ===
+([[8, 2], [82, 2], [82, 34], [8, 34]], '교수님', 0.9988596483576012)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image14.jpg ===
+([[6, 0], [80, 0], [80, 32], [6, 32]], '구르카', 0.9990831613540649)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image15.jpg ===
+([[0, 2], [50, 2], [50, 32], [0, 32]], '이불', 0.8190423571753453)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image16.jpg ===
+([[8, 2], [103, 2], [103, 33], [8, 33]], '혼자가기', 0.9997740387916565)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image17.jpg ===
+([[2, 2], [46, 2], [46, 30], [2, 30]], '영구', 0.9999254851849975)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image18.jpg ===
+([[4, 2], [56, 2], [56, 32], [4, 32]], '외처', 0.9989943557757909)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image19.jpg ===
+([[2, 2], [74, 2], [74, 32], [2, 32]], '대학원', 0.9999890567510715)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image20.jpg ===
+([[2, 2], [56, 2], [56, 34], [2, 34]], '광계', 0.9486626569629272)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image21.jpg ===
+([[2, 2], [54, 2], [54, 30], [2, 30]], '가기', 0.9999892947172615)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image22.jpg ===
+([[2, 2], [54, 2], [54, 32], [2, 32]], '하다', 0.9998675120587224)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image23.jpg ===
+([[2, 2], [72, 2], [72, 28], [2, 28]], '포스템', 0.554571339060492)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image24.jpg ===
+([[6, 2], [56, 2], [56, 32], [6, 32]], '용키', 0.4503454381032036)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image25.jpg ===
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image26.jpg ===
+([[6, 2], [54, 2], [54, 32], [6, 32]], '안녕', 0.9988237998682177)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image27.jpg ===
+([[0, 2], [76, 2], [76, 34], [0, 34]], '삼거리', 0.9985492303773179)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image28.jpg ===
+([[0, 0], [78, 0], [78, 32], [0, 32]], '중개소', 0.7457327842712402)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image29.jpg ===
+([[2, 2], [54, 2], [54, 32], [2, 32]], '타운', 0.9990449174664198)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image30.jpg ===
+([[0, 2], [54, 2], [54, 32], [0, 32]], '테이', 0.47788801191894426)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image31.jpg ===
+([[6, 2], [52, 2], [52, 32], [6, 32]], '마리', 0.9999358530991852)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image32.jpg ===
+([[4, 2], [54, 2], [54, 32], [4, 32]], '에이', 0.9991555659140865)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image33.jpg ===
+([[0, 0], [50, 0], [50, 32], [0, 32]], '올드', 0.9966037284685252)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image34.jpg ===
+([[2, 2], [76, 2], [76, 32], [2, 32]], '드래곤', 0.885406822098633)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image35.jpg ===
+([[0, 2], [52, 2], [52, 34], [0, 34]], '창고', 0.9999891261304003)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image36.jpg ===
+([[4, 0], [56, 0], [56, 32], [4, 32]], '가뭄', 0.3222794048361017)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image37.jpg ===
+([[4, 2], [56, 2], [56, 32], [4, 32]], '골드', 0.9960270248065975)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image38.jpg ===
+([[0, 2], [102, 2], [102, 34], [0, 34]], '기말고사', 0.9997883439064026)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image39.jpg ===
+([[2, 2], [54, 2], [54, 32], [2, 32]], '웬품', 0.09876829762246676)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image40.jpg ===
+([[4, 0], [384, 0], [384, 32], [4, 32]], '가나다라마바사아자차카타파하오나', 0.9591170079968457)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image41.jpg ===
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image42.jpg ===
+([[6, 2], [58, 2], [58, 32], [6, 32]], '파닭', 0.9996330049705004)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image43.jpg ===
+([[0, 2], [74, 2], [74, 32], [0, 32]], '아머리', 0.999058044628213)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image44.jpg ===
+([[0, 2], [50, 2], [50, 34], [0, 34]], '뉴알', 0.07767543640136756)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image45.jpg ===
+([[0, 2], [48, 2], [48, 28], [0, 28]], '로드', 0.9994550004635071)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image46.jpg ===
+([[4, 2], [76, 2], [76, 32], [4, 32]], '소타임', 0.6298731804199961)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image47.jpg ===
+([[2, 2], [54, 2], [54, 30], [2, 30]], '시그', 0.9540701779161498)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image48.jpg ===
+([[0, 2], [50, 2], [50, 30], [0, 30]], '치코', 0.9968245335846452)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image49.jpg ===
+([[5, 0], [83, 0], [83, 35], [5, 35]], '한동대', 0.9999469357162452)
+
+=== Results for C:/Users/ririk/Desktop/DLIP_Final_Project/easyocr_test_image\image50.jpg ===
+([[4, 2], [78, 2], [78, 34], [4, 34]], '싫어요', 0.9969744248240433)
